@@ -9,6 +9,8 @@ The purpose of this project is to serve as a reference when deploying static sit
 Currently demo projects exist for the following frameworks:
 
 - Angular (ng new angular-demo)
+- Vue (vue create vue-demo)
+- React (npx create-react-app react-demo)
 
 If your favourite framework is missing open an issue and we can rectify that, I love exploring new frameworks.
 
